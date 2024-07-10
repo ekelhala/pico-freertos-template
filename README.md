@@ -14,6 +14,7 @@ This list of programs/dependencies is required to start developing and debugging
     - Cloned and pointed to by environment variable `FREERTOS_KERNEL_PATH`
 - OpenOCD
     - Installed and configured properly
+- `gdb-multiarch`
 - [picotool](https://github.com/raspberrypi/picotool)
     - Installed and configured properly
 - The required extensions for Visual Studio Code are specified in `.vscode/extensions.json`
